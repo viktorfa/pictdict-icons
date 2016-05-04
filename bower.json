@@ -4,11 +4,11 @@
     "Viktor <vikfand@gmail.com>"
   ],
   "description": "Custom icons for the PictDict app",
-  "main": "",
+  "main": "font/_flaticon.scss",
   "moduleType": [],
   "license": ["OFL-1.1", "MIT", "CC-BY-3.0"],
   "homepage": "",
-  "private": true,
+  "private": false,
   "ignore": [
     "**/.*",
     "node_modules",
