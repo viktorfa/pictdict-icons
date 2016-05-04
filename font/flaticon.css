@@ -1,6 +1,6 @@
 	/*
   	Flaticon icon font: Flaticon
-  	Creation date: 04/05/2016 02:21
+  	Creation date: 04/05/2016 13:21
   	*/
 
 @font-face {
@@ -31,8 +31,9 @@ margin-left: 20px;
 
 .flaticon-big-sim-card:before { content: "\f100"; }
 .flaticon-credit-cards:before { content: "\f101"; }
-.flaticon-hospital-buildings:before { content: "\f102"; }
-.flaticon-money:before { content: "\f103"; }
-.flaticon-phone-card-back:before { content: "\f104"; }
-.flaticon-pills:before { content: "\f105"; }
-.flaticon-syringe:before { content: "\f106"; }
+.flaticon-frontal-taxi-cab:before { content: "\f102"; }
+.flaticon-hospital-buildings:before { content: "\f103"; }
+.flaticon-money:before { content: "\f104"; }
+.flaticon-phone-card-back:before { content: "\f105"; }
+.flaticon-pills:before { content: "\f106"; }
+.flaticon-syringe:before { content: "\f107"; }
