@@ -1,0 +1,19 @@
+{
+  "name": "pictdict-icons",
+  "authors": [
+    "Viktor <vikfand@gmail.com>"
+  ],
+  "description": "Custom icons for the PictDict app",
+  "main": "",
+  "moduleType": [],
+  "license": ["OFL-1.1", "MIT", "CC-BY-3.0"],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
